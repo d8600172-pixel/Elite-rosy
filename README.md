@@ -99,7 +99,7 @@
       Location: Singapore<br>
       Availability: Daily
     </p>
-    <a href="https://wa.me/65XXXXXXXX" class="btn">Message on WhatsApp</a>
+    <a href="https://wa.me/+91 9741521603" class="btn">Message on WhatsApp</a>
   </div>
 </section>
 
